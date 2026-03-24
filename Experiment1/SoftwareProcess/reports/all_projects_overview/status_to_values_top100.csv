@@ -1,0 +1,101 @@
+To_String,n
+Closed,390823
+Resolved,237562
+In Progress,122594
+Open,100758
+Done,39743
+Waiting for integration review,32529
+Gathering Interest,32412
+In Code Review,30884
+Reopened,23046
+Development in progress,22773
+Waiting for peer review,22054
+Testing In Progress,21995
+In Review,21425
+Integration review in progress,20310
+Waiting for testing,19678
+Peer review in progress,18273
+Tested,17135
+Gathering Impact,16460
+Needs Scheduling,15594
+Verified,12992
+Reviewed,9062
+Quality Review,8814
+Needs Verification,8060
+Needs Triage,7983
+Accepted,7394
+To Do,6128
+Awaiting Quality Review,5832
+Technical Review,5674
+In CR Review,4863
+Waiting For User Input,4574
+Awaiting Development,4355
+Reviewable,4221
+To be reviewed,4041
+Investigating,3821
+Problem during testing,2864
+Not Being Considered,2776
+To Be Tested,2749
+Needs Merge,2580
+Awaiting Deployment,2535
+Waiting for Review,2380
+In  Review,2346
+Won't Fix,2187
+Awaiting Merge,1959
+Long Term Backlog,1954
+Awaiting Soak,1891
+Invalid,1688
+Pull Request Submitted,1686
+Short Term Backlog,1627
+Soaking,1554
+Implemented,1412
+Complete,1340
+Code Review,1256
+Waiting for Release,1245
+To Test,1240
+In Development,1228
+New,1144
+Waiting for Response,1129
+Awaiting Release,1112
+Deployment,1068
+Scheduled,883
+Waiting (Blocked),816
+Backlog,793
+Ready for Review,687
+In PR,676
+Under Consideration,637
+In QE Test,636
+Under Review,582
+Ready for Work,564
+To Develop,536
+Reviewing,518
+Review,494
+Pending 3rd-Party,485
+Validate,466
+Blocked,352
+Future Consideration,334
+ToDo,333
+To Be Merged,299
+Inactive - Pending Closure,297
+Customer Validation,285
+Review Complete,284
+Debugging,235
+Ready for Development,214
+Unverified,212
+Released to Cloud,206
+Ready for Web Release,191
+Released to Server,176
+Returned,173
+Deployed to Cloud,170
+Open - untriaged,162
+Debugging With Submitter,160
+Waiting for Reporter,140
+Duplicate,136
+Short Term Roadmap,123
+Planned Development,92
+Defered,88
+Selected for Development,88
+Planning,88
+Needs Reviewer,71
+Triage,62
+Long Term Roadmap,59

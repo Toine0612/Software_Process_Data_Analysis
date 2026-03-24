@@ -1,0 +1,436 @@
+field,n
+workflow,1796669
+status,1363475
+fix version,599621
+labels,477891
+rank,455498
+link,448089
+resolution,416202
+assignee,342509
+uis,334435
+component,306011
+description,264504
+remoteissuelink,263982
+sprint,174915
+support reference count,138388
+attachment,124664
+version,123816
+priority,110537
+issuetype,93487
+epic link,92706
+summary,83599
+epic child,73054
+planned end,56370
+story points,48225
+projectimport,45519
+testing instructions,42363
+currently in integration,41159
+pull master diff url,36331
+planned start,36184
+timespent,35889
+symptom severity,33795
+project,32467
+key,32435
+timeestimate,30794
+worklogid,29360
+pull master branch,24900
+tester,23431
+pull  from repository,23353
+documentation changes,23065
+comment,21508
+integrator,20870
+backwards compatibility,20006
+minimum version,19518
+peer reviewer,18381
+integration date,16892
+timeoriginalestimate,16182
+driver changes,15564
+user impact score,13848
+uis - server,13281
+reviewers,13226
+backlog order (obsolete),12823
+team,12715
+severity,11649
+security,11014
+qa assignee,10634
+backport requested,8382
+component watchers,7625
+rank (obsolete),7535
+reporter,7042
+jira support rank (obsolete),6853
+parent,6724
+downstream team attention,6670
+reviewer,6373
+environment,6299
+occurrence factor,6257
+closedon,6163
+bugmaster rank (obsolete),6113
+studio rank (obsolete),6113
+support rank (obsolete),6113
+sprint candidate,5968
+resolutiondate,5568
+triage,5552
+uis - cloud,5075
+current status,4704
+baseline end,4381
+baseline start,4381
+backport,3945
+sub-component,3783
+watchers,3726
+user summary,3709
+email,3689
+case,3635
+global rank,3609
+kernel team,3375
+integration priority,3340
+risk score,3236
+cap verification,3041
+dev provided by,2963
+documentation required,2801
+regular expression,2677
+internal complexity,2617
+internal value,2604
+end date,2533
+shepherd,2377
+target version/s,2275
+epic name,2260
+start date,2250
+duedate,2190
+sdk impact,2054
+value,1976
+fixed in build,1935
+tests written,1881
+documentation impact,1878
+system test impact,1868
+pull 3.4 diff url,1854
+pull 3.3 diff url,1842
+complexity,1776
+difficulty,1768
+pull 3.5 diff url,1726
+pull 2.5 diff url,1715
+internal priority,1699
+driver changes needed?,1653
+backport completed,1627
+pull 2.7 diff url,1614
+introduced in version,1604
+pull 2.3 diff url,1599
+pull 2.6 diff url,1554
+cycle,1548
+pull 2.8 diff url,1539
+customers,1529
+pull 2.3 branch,1499
+pull 2.5 branch,1461
+pull 2.4 diff url,1454
+workaround,1436
+pull 2.7 branch,1418
+pull 2.2 diff url,1412
+pull 3.7 diff url,1409
+steps to reproduce,1381
+server team,1350
+pull 2.2 branch,1348
+pull 3.3 branch,1335
+pull 2.4 branch,1334
+pull 2.6 branch,1334
+pull 3.4 branch,1323
+pull 3.6 diff url,1317
+priority for beta phase,1295
+pull 2.9 diff url,1292
+story size,1289
+pull 3.1 diff url,1287
+pull 2.8 branch,1285
+pull 3.5 branch,1276
+support rank,1251
+pull 3.2 diff url,1217
+pull 2.1 diff url,1210
+pull 3.0 diff url,1182
+pull 3.8 diff url,1182
+pull 2.1 branch,1163
+epic status,1148
+epic/theme,1146
+pull 2.9 branch,1046
+pull 3.1 branch,1043
+pull 3.7 branch,1025
+testing notes,1020
+pull 3.6 branch,992
+scrum ranking (obsolete),975
+backward breaking,964
+actual end,959
+pull 3.0 branch,951
+pull 3.2 branch,942
+operating system,926
+qa kickoff status,913
+pm reviewed,872
+pull 3.8 branch,852
+qa demo status,849
+customer priority,833
+database,816
+documentation changes needed?,764
+wbs,753
+dev owner,716
+documentation changes summary,707
+actual time,687
+pull 2.0 diff url,658
+defect source,653
+pull request url,653
+steakholder,648
+pull 2.0 branch,641
+theme,602
+risk,600
+fixed in enterprise release/s,599
+issue type,599
+type,592
+parent issue,591
+requires more info,569
+severity label,560
+actual story points,541
+notability,540
+teams impacted,537
+downstream changes summary,519
+bug type,491
+developed by,484
+business value,477
+fix for,475
+estimate,472
+number of developers,470
+pull 3.9 diff url,464
+flagged,455
+customer,443
+testing performed,430
+backlog order,426
+affects docs,423
+internal work bucket,421
+external issue id,420
+testing strategy,420
+code review,404
+checked code coverage,400
+documentation link,375
+pull 3.9 branch,375
+development effort,372
+browser,351
+partner backlog,348
+effort points,338
+pull 3.10 diff url,337
+qa owner,331
+url,321
+urgent?,314
+test result,312
+affects,308
+qa story points,283
+is,277
+pull 3.10 branch,268
+user impact,267
+epic colour,266
+time spent,263
+cvss score,255
+tested by,235
+release note,224
+code review owner,223
+task type,221
+issue size,215
+data collection,212
+themes,212
+epic color,207
+worklogtimespent,206
+test type,204
+does this issue require documentation?,196
+design status,192
+function test status,192
+documentation status,188
+sample/tutorial,185
+backport approved,177
+executed,174
+qa needed,161
+customer value points,155
+confidence level,153
+buildvariants,148
+story points (obsolete),146
+to be done by,146
+includes code fix,145
+acceptance criteria,141
+detailed project statuses,136
+epic sp progress,132
+epic story  progress,132
+pull 1.9 branch,132
+pull 1.9 diff url,131
+failing test suite,130
+automation required,122
+configuration,121
+trouble ticket,121
+work type,120
+test link(s),110
+pre-priority,102
+test result details,101
+injected,100
+migration impact,100
+lh version,98
+cc,91
+pm value,91
+streams,91
+release version,88
+test status,87
+epic,86
+qa test plan,81
+log output,78
+work effort (0-10),78
+reported in build #,74
+aha! reference,70
+aha! rank,68
+product rank,68
+verification,67
+launch plan,62
+splunk query to find customers impacted by this bug,55
+test plan,55
+fixed in long term support release/s,54
+metric value,50
+test case automated,50
+% users impacted,47
+ordinal priority,47
+points,43
+uservoice links,42
+qa brought to you by,41
+company,39
+effort,38
+owner,36
+metric unit,35
+release note required,35
+includes test case?,33
+release version history,33
+design,32
+jira support rank,30
+milestone level,29
+os and version,29
+plugin version,29
+unique views,29
+risk assessment,27
+studio rank,25
+swan flag,25
+bugmaster rank,24
+random text,24
+vendor,24
+animal,23
+demo,21
+review link,21
+cla,19
+external issue url,19
+failing buildvariants,19
+found in commit,19
+support hot issues workaround,19
+site,18
+sfdc case url,17
+sfdc customer impact,17
+docs text,16
+sfdc case severity,16
+splunk query to find customers impacted by this incident,16
+evergreen project,15
+roadmap,14
+sub theme,14
+customer labels,12
+reference url,12
+jira version,11
+product-component,11
+add-on type,10
+count of linked failures,10
+failing tasks,10
+out of scope,10
+first failing revision (git hash),9
+old_backport,9
+percentdone,9
+product,9
+server fixversion,9
+user agent,9
+uuid,9
+assigned teams,8
+scope,8
+task points,8
+topology,8
+whiteboard,8
+backlog priority,7
+bamboo ranking,7
+bamboo stream,7
+baseline end date,7
+baseline start date,7
+customer name,7
+flags,7
+has been automated,7
+language,7
+platform,7
+alignment,6
+e-mail,6
+epic label,6
+feature,6
+full name,6
+mongodb version,6
+original estimate,6
+r,6
+ranking,6
+units,6
+usage,6
+value/effort,6
+other viewers,5
+points (historical dont use),5
+target release,5
+affects clover-for-eclipse,4
+alcohol consumed prior to contributing to this issue,4
+authorized watchers,4
+defect type,4
+driver validation,4
+driver version,4
+driverorigin,4
+qa lead assigned,4
+regular expression - old,4
+scheduling,4
+spec link,4
+support points,4
+support priority,4
+support request message (issuetype:bug),4
+zendesk ticket reference,4
+actual start,3
+admin-comment-bulk update author,3
+bug symptoms,3
+connector category,3
+failure type,3
+plugin info,3
+release notes,3
+alert sara,2
+backportable,2
+boost version,2
+customer request type,2
+failing tests,2
+jac issue link,2
+journal url,2
+name,2
+project planning,2
+rationale,2
+repro case,2
+request participants,2
+responsible organization,2
+reviewer comments,2
+tags,2
+arch,1
+art points,1
+atlassian product,1
+automation done,1
+burger options,1
+checklist,1
+color of label tdl-priority of field tags,1
+compiler and version,1
+components,1
+demo completed,1
+documentation completed,1
+ecosystem frameworks,1
+ecosystem products,1
+eis,1
+first failing revision,1
+flag,1
+infra-members,1
+organizations,1
+performance done,1
+ranked priority,1
+rating,1
+revision order number,1
+risk factor,1
+rom,1
+security review done,1
+urgent,1
+vendor delivery date,1
+virtual machine,1

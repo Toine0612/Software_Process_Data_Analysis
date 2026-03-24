@@ -1,0 +1,4 @@
+Project_Key,n_issues_2018_2020,n_resolved_2018_2020,resolved_rate,n_with_resolution_time_minutes,n_with_any_changelog,n_with_status_changes,n_with_people_changes,median_changelog_entries_per_issue,median_comments_per_issue
+SERVER,18806,15974.0,0.8494,18806.0,18806.0,18564.0,11463.0,20.0387,2.3418
+MDL,8521,4901.0,0.5752,8521.0,8521.0,5792.0,4328.0,30.5875,8.7859
+JRACLOUD,5433,1646.0,0.303,5433.0,5433.0,4137.0,1032.0,9.8837,1.395

@@ -1,0 +1,4 @@
+Project,Issues,Has_Status_History,Resolution_nonnull,First_In_Progress_nonnull,First_Done_nonnull,Final_Done_nonnull,CT1_count_nonnull,CT1_count_gt0,CT2_count_nonnull,CT2_count_gt0,CT3_count_nonnull,CT3_count_nonneg,CT4_count_nonnull,CT4_count_nonneg,CT5_count_nonnull,CT5_count_nonneg,CT6_count_nonnull,CT6_count_nonneg,CT1_vs_CT3_mismatch,CT2_vs_CT4_mismatch
+SERVER,18806,18564,15974,9647,16029,16029,18806,15963,18806,8645,15974,15974,9215,9215,9248,9240,9248,9177,10000,9147
+MDL,8521,5792,4901,3872,4926,4926,8521,4896,8521,0,4901,4901,3489,3489,3491,3489,3491,3473,3524,3489
+JRACLOUD,5433,4137,1646,351,2082,2082,5433,1644,5433,218,1646,1646,275,274,287,279,287,152,645,233

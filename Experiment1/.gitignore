@@ -5,11 +5,10 @@ logs
 *.sqlite
 *.db
 *.log
-instructions.txt
-MSc SE Master Project Proposal Bjorgvin.pdf
 .DS_Store
 *.parquet
 .ipynb_checkpoints/
 __pycache__/
 .venv
 .vscode
+report-context.md

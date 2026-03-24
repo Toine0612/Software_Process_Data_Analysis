@@ -39,6 +39,7 @@ Recommended run order:
 3. `03_motherfiles.ipynb` (builds per-project mother files)
 4. `04_summaries.ipynb` (creates summary tables + long-format exports)
 5. `05_visualizations.ipynb` (creates plots from summary exports)
+6. `06_project_distributions.ipynb` (creates per-project distribution plots)
 
 ## Notes on paths
 Notebooks use paths relative to `SoftwareProcess/notebooks/`, e.g.:

@@ -1,0 +1,14 @@
+data
+logs
+.env
+*.parquet
+*.sqlite
+*.db
+*.log
+.DS_Store
+*.parquet
+.ipynb_checkpoints/
+__pycache__/
+.venv
+.vscode
+report-context.md

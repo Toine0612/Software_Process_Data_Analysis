@@ -101,7 +101,7 @@ That is actually a strong robustness result, not a failure.
 
 ---
 
-## Important correction to your expectations
+## Important correction to expectations
 
 These are **not** safely true:
 
@@ -120,36 +120,4 @@ and
 * **MDL**: `3,489`
 * **JRACLOUD**: `233`
 
-So the built-in minute fields are clearly **not just simple timestamp differences**. They may be computed with different business logic, missing transitions, filtered statuses, or dataset preprocessing.
-
-That means:
-
-* treat `Resolution_Time_Minutes` as its **own metric**
-* treat `In_Progress_Minutes` as its **own metric**
-* do **not** use them as validation that your timestamp-derived definitions are correct
-
 ---
-
-## What I would use in the experiment
-
-### Minimal, clean set
-
-* **CT1** = `Resolution_Time_Minutes`
-* **CT2** = `In_Progress_Minutes`
-* **CT3** = `Resolution - Created`
-* **CT5** = `Final_Done - First_In_Progress`
-* **CT6** = `First_Done - First_In_Progress`
-
-I would keep **CT4**, but it is less interesting than CT5 once you already have final done from history.
-
-### Why CT6 is useful
-
-CT6 vs CT5 gives you a simple way to see whether reopen/reclose behavior materially changes cycle time.
-
----
-
-## Recommended framing in the write-up
-
-Something like:
-
-> We first assessed coverage for several candidate cycle-time definitions. Resolution-based definitions were available for a larger share of issues, while status-history-based definitions depended strongly on project workflow and data completeness. As a result, status-based cycle time was only analyzed for projects where coverage was sufficient and workflow mapping was interpretable.
